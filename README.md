@@ -6,4 +6,4 @@
 [![PushTheEnvelopAI](Youtube_Thumbnail.png)](http://www.youtube.com/watch?v=CmYRz0gmIW8&list=PLGxQQ15B6f3tN4HKizb5Gtedf1Ibm326z&index=2 "Predicting the Stock Market with Twitter (Part 1)")
 
 ### Example Output:
-![Example Bot Prediction](Example_Output.png)
+![Example Bot Prediction](Example_Output.PNG)
