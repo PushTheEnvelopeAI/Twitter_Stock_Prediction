@@ -6,4 +6,4 @@
 [![(Youtube_Thumbnail.PNG)](https://youtu.be/CmYRz0gmIW8)
 
 ### Example Output:
-![IMAGE ALT TEXT HERE](Example_Output.PNG)
+[![PushTheEnvelopAI](http://img.youtube.com/vi/=CmYRz0gmIW8&list=PLGxQQ15B6f3tN4HKizb5Gtedf1Ibm326z&index=2/0.jpg)](http://www.youtube.com/watch?v=CmYRz0gmIW8&list=PLGxQQ15B6f3tN4HKizb5Gtedf1Ibm326z&index=2 "Predicting the Stock Market with Twitter (Part 1)")
